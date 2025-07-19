@@ -1,4 +1,4 @@
-# Olá, eu sou Bruno Antunes Costa! 👋
+# Olá!
 
 Desenvolvedor de software com experiência em frontend e backend utilizando Vue.js, React, Node.js e Django REST. Atuo com foco em qualidade de código, design de componentes reutilizáveis, integração com sistemas em nuvem e entrega contínua.
 
