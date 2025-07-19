@@ -33,9 +33,9 @@ Desenvolvedor de software com experiência em frontend e backend utilizando Vue.
 
 ## 📅 Em aprendizado
 
-- React Native
 - Design de produto digital (UX/UI)
 - Testes com Cypress
+- Aprofundando em design patterns
 
 ## 💬 Vamos conversar?
 
