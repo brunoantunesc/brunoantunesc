@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou desenvolvedor de software com 4 anos e 6 meses de experiência profissional, atuando principalmente com Python, Django, React, TypeScript e PostgreSQL.
+Sou desenvolvedor de software com 4 anos de experiência profissional, atuando principalmente com Python, Django, React, vueJS, TypeScript e PostgreSQL.
 
 Tenho experiência no desenvolvimento de APIs REST, aplicações web, processamento de dados, integração com serviços AWS e arquiteturas orientadas a eventos. Também atuo com avaliação e revisão de código gerado por inteligência artificial, analisando qualidade, correção, aderência a requisitos e boas práticas de engenharia de software.
 
